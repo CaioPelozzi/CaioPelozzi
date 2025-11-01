@@ -28,7 +28,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em back-end e expandir 
 <img
   aligh="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=CaioPelozzi&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=CaioPelozzi&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&cache_bust=1"
 />
 <img
   aligh="left"
