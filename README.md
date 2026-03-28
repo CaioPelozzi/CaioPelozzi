@@ -1,37 +1,21 @@
-# 👨🏼‍💻 Caio Pelozzi
+# Olá, eu sou o Caio Pelozzi! 👋
 
-**`Analista de QA  |  Focado em BackEnd`** 
+**Desenvolvedor Backend (Java / Spring Boot) | Analista de QA**
+📍 Juiz de Fora, MG | [LinkedIn](https://www.linkedin.com/in/caio-pelozzi/) | [Currículo](https://github.com/CaioPelozzi/CaioPelozzi/blob/main/CV_Caio_Pelozzi_Backend.pdf)
 
-### 👋🏼 Olá! Me chamo Caio Pelozzi Sodré   
-tenho 21 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na Estácio.
-Atualmente trabalho como **Analista de QA**, onde desenvolvi uma base sólida em testes manuais, automação e entendimento do ciclo de desenvolvimento de software.
-Tenho grande interesse pelo **desenvolvimento Back-End**, especialmente com Java e Spring Boot.
-Atualmente, estou focado em aprimorar minhas habilidades em back-end e expandir meus conhecimentos na área de desenvolvimento.    
-💼 [Me adicione no LinkedIn!](https://www.linkedin.com/in/caio-pelozzi/ ) 
+Sou um profissional de tecnologia com quase 2 anos de experiência na área, onde unifiquei a visão analítica de Qualidade de Software (QA) com a paixão pela construção de sistemas no Backend. Possuo vivência prática na construção de testes automatizados E2E, o que me rendeu prêmio de "Melhor Ideia Semestral" na empresa onde atuo utilizando Java e Playwright.
 
----
+Adicionalmente, atuo como freelancer, prestando manutenção e suporte de sistemas web em ambiente de produção. Atualmente curso Análise e Desenvolvimento de Sistemas e dedico meus estudos ao ecossistema Java, Spring Boot e arquitetura Cloud (AWS).
 
-### ⚙️ Linguagens e Tecnologias
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Estastísticas   
-
-<img
-  aligh="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=CaioPelozzi&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&cache_bust=1"
-/>
-<img
-  aligh="left"
-  height="195"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPelozzi&layout=donut&theme=transparent"
-/>
+![QA](https://img.shields.io/badge/Quality_Assurance-%23FFD700.svg?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/playwright-%232E8B57.svg?style=for-the-badge&logo=playwright&logoColor=white)
